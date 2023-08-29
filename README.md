@@ -4,7 +4,7 @@ Adapter for an external CC1101 module for the Flipper Zero
 ## How to use:
 1. Solder on 90° Pin headers to connect to the flipper.
 2. Solder on a 2x4 pin header onto your CC1101 Module
-3. Solder the C1101 Module onto this board
+3. Solder the C1101 Module onto this board. (Pin 1 is GND)
 4. Install Flipper firmware that is capable of using the CC1101 Module (Unleashed or RogueMaster)
 5. Hack the planet
 
