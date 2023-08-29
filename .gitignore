@@ -32,4 +32,4 @@ fp-info-cache
 *.gbr
 *.gbrjob
 *.drl
-
+/adapter/adapter.zip
